@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="tv_forgetpw">Forget your password</string>
+    <string name="btn_register">Register your account</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="txt_welcome">Welcome to my app</string>
+    <string name="btn_reg">Register</string>
+
+
+</resources>
